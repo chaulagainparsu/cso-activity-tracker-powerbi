@@ -57,7 +57,7 @@ cso-activity-tracker-dashboard/
 ├── data/
 │   └── sample_dataset.csv
 └── pbix/
-    └── dashboard.pbix (optional)
+    └── dashboard.pbix
 
 💡 Future Improvements
 Integration with real-time MIS systems
